@@ -1,0 +1,19 @@
+.box {
+  border-radius: 25px;
+background: #353348;
+box-shadow: inset -5px -5px 10px #15141d,
+            inset 5px 5px 10px #555273;
+}
+.crater {
+   
+  
+background: linear-gradient(315deg, #202252, #272961);
+box-shadow:  -5px -5px 10px #0e0f24,
+             5px 5px 10px #3a3d92;
+}
+.bulged-circle {
+  border-radius: 175px;
+background: #eea177;
+box-shadow: inset -5px -5px 10px #5f4030,
+            inset 5px 5px 10px #ffffbe;
+}
